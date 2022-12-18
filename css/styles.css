@@ -159,6 +159,9 @@ body {
     url('../img/background.jpg');
   background-size: cover;
 }
+.hero {
+  max-width: 1440px;
+}
 .hero-title {
   font-weight: 600;
   font-size: 56px;

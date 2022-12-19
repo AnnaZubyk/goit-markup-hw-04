@@ -163,12 +163,17 @@ body {
   max-width: 1440px;
 }
 .hero-title {
-  font-weight: 600;
+  display: flex;
+}
+.hero-title {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
+  justify-content: center;
   letter-spacing: 0.02em;
   color: var(--color-light);
+  max-width: 500px;
+  margin-left: 318px;
 }
 .hero-title {
   margin-top: 0px;
